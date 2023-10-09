@@ -13,7 +13,7 @@ export const thousandSeparate = (value = 0) => {
     const iResult = iValue.length - 6;
     const iNewResult = iValue.length - 9;
     const sResult = iValue.slice(0, iNewResult);
-
+    //sdffdffdf
     console.log("iResult", iResult);
     console.log("iNewResult", iNewResult);
     const FinalREsult =
