@@ -14,19 +14,19 @@ export const fetchImages = [
   {
     id: 3,
     Name: "Abc",
-    Url: "https://lk-kellyfelder.s3.ap-southeast-1.amazonaws.com/gallery/f1765fbc8756fe6d4396c5c6fa5893ba308aedfb.jpg",
+    Url: "https://lk-kellyfelder.s3.ap-southeast-1.amazonaws.com/gallery/b3f9a23b62242fb879308b84062705b53984831f.jpg",
     Price: "2500",
   },
   {
     id: 4,
     Name: "Abc",
-    Url: "https://lk-kellyfelder.s3.ap-southeast-1.amazonaws.com/gallery/f1765fbc8756fe6d4396c5c6fa5893ba308aedfb.jpg",
+    Url: "https://lk-kellyfelder.s3.ap-southeast-1.amazonaws.com/gallery/198a8d408fedff4cbf59b7935fec6ad2418570cf.jpg",
     Price: "2500",
   },
   {
     id: 5,
     Name: "Abc",
-    Url: "https://lk-kellyfelder.s3.ap-southeast-1.amazonaws.com/gallery/f1765fbc8756fe6d4396c5c6fa5893ba308aedfb.jpg",
+    Url: "https://lk-kellyfelder.s3.ap-southeast-1.amazonaws.com/gallery/520e6f5f0d449d2d0815a012d1e0d78ff4f52048.jpg",
     Price: "2500",
   },
   {
