@@ -1,7 +1,11 @@
 import styled from "styled-components";
 
 const GlobleButton = () => {
-  return <MainContainer>ADD TO BAG</MainContainer>;
+  return (
+    <MainContainer>
+      <button>Click Me</button>
+    </MainContainer>
+  );
 };
 
 export default GlobleButton;
@@ -17,7 +21,14 @@ const MainContainer = styled.div`
   justify-content: center;
   z-index: 55;
 
-  &:hover {
-    background: red;
+  button {
+    visibility: hidden;
+    width: 150px;
+    height: 40px;
+    background: #fff;
+    &:hover {
+      display: flex;
+      visibility: visible;
+    }
   }
 `;

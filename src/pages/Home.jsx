@@ -3,6 +3,7 @@ import Category from "../componant/home/Category";
 import Herosection from "../componant/home/Herosection";
 import MiddleNavigation from "../componant/home/MiddleNavigation";
 import Footer from "../footer/Footer";
+import Gallery from "./Gallery";
 
 const Home = () => {
   return (
@@ -10,7 +11,8 @@ const Home = () => {
       <Herosection />
       <Category />
       <Banner />
-      <MiddleNavigation />
+      {/* <MiddleNavigation /> */}
+      <Gallery />
       <Footer />
     </div>
   );

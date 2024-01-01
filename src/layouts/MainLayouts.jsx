@@ -4,7 +4,7 @@ import Header from "../headers/Header";
 const MainLayouts = () => {
   return (
     <div>
-      <Header />
+      {/* <Header /> */}
       <Outlet />
     </div>
   );
